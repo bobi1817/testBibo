@@ -1,0 +1,38 @@
+# --- Operating System ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Dependencies ---
+node_modules/
+bower_components/
+vendor/
+
+# --- Build & Dist ---
+dist/
+build/
+out/
+*.log
+
+# --- Environment ---
+.env
+.env.local
+.env.*.local
+
+# --- OS generated files ---
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# --- Temp ---
+*.tmp
+*.temp
+tmp/
+temp/
